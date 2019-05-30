@@ -1,0 +1,6 @@
+C:\Users\stsomuah\OneDrive\ecole\AppSheet\AppSheetProject\bin\Release\AppSheetProject.exe.config
+C:\Users\stsomuah\OneDrive\ecole\AppSheet\AppSheetProject\bin\Release\AppSheetProject.exe
+C:\Users\stsomuah\OneDrive\ecole\AppSheet\AppSheetProject\bin\Release\AppSheetProject.pdb
+C:\Users\stsomuah\OneDrive\ecole\AppSheet\AppSheetProject\obj\Release\AppSheetProject.csproj.CoreCompileInputs.cache
+C:\Users\stsomuah\OneDrive\ecole\AppSheet\AppSheetProject\obj\Release\AppSheetProject.exe
+C:\Users\stsomuah\OneDrive\ecole\AppSheet\AppSheetProject\obj\Release\AppSheetProject.pdb
